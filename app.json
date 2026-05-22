@@ -6,12 +6,16 @@
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "backgroundColor": "#090A10",
+    "owner": "cnde",
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.windeboy.outfit"
     },
     "android": {
       "package": "com.windeboy.outfit"
+    },
+    "updates": {
+      "url": "https://expo.dev"
     }
   }
 }
